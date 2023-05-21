@@ -2,7 +2,7 @@
 *Patika.dev tarafından gerçekleştirilen HTML eğitiminde verilen olduğu ödevler.*
 
 ***
-## ode1
+## odev-1
 
 
 https://github.com/melikebasturk/patika.dev-CSS/assets/81379373/5897859c-d3fe-4ca1-a5d7-30a25cfc2472
